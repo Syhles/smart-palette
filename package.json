@@ -1,0 +1,19 @@
+{
+    "name": "smart-palette",
+    "displayName": "Smart Palette",
+    "description": "Pixel-art color helper: shading/lightness/saturation/hue ramps, color harmonies, sphere preview, light-source presets, OKHSL color space, and color-blindness simulation — all driven by the current foreground color.",
+    "version": "1.0.3",
+    "author": {
+        "name": "Rian"
+    },
+    "categories": [
+        "Scripts"
+    ],
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./extension.lua"
+            }
+        ]
+    }
+}
